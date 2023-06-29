@@ -1,1 +1,1 @@
-# python-api-challenge
+# I am having major technical difficulties with this assignment. I've asked multiple BCs learning assistants, my TA, my instructor, and we cannot figure out my issues. I am meeting with a tutor to hop[efully resolve this on Saturday. My code is what it should be, but I am still returning an error. I will be resubmiting this assignment at a later date
