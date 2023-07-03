@@ -1,1 +1,1 @@
-# This is my second and final submission of the Python API CHallenge. I experienced technical difficulties with my API keys, but upon working with tutors I was able to troubleshoot the problems and create working assignments
+# This is my second and final submission of the Python API CHallenge. I experienced technical difficulties with my API keys, but upon working with tutors I was able to troubleshoot the problems and create working assignments. The only thing I ask of the grader is to ensure my API keys are hidden by my gitignore
