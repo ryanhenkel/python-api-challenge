@@ -1,1 +1,1 @@
-# I am having major technical difficulties with this assignment. I've asked multiple BCS learning assistants, my TA, my instructor, and we cannot figure out my issues. I am meeting with a tutor to hopefully resolve this on Saturday. My code is what it should be, but I am still returning an error. I will be submitting this assignment at a later date
+# This is my second and final submission of the Python API CHallenge. I experienced technical difficulties with my API keys, but upon working with tutors I was able to troubleshoot the problems and create working assignments
